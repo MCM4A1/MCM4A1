@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MCM4A1
-- 👀 I’m interested in Front End and in general web development
-- 🌱 I’m currently learning React
+- Frontend developer @fpsagency
+- Experienced mostly in Vue Js, Laravel, Nuxt
+- Transitioning to React/TS on private projects.
 
 <!---
 MCM4A1/MCM4A1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
